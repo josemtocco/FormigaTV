@@ -1,0 +1,2729 @@
+#EXTM3U
+#EXTINF:0,GB MG HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+#EXTINF:10,Globo Brasilia
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0fb/index.m3u8
+#EXTINF:0,Globo Nordeste
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0f7/index.m3u8
+#EXTINF:0,Globo RJ
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0f4/index.m3u8
+#EXTINF:0,SporTV
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a06y/index.m3u8
+#EXTINF:0,SporTV 2
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a04i/index.m3u8
+#EXTINF:0,SporTV 2 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a07h/index.m3u8
+#EXTINF:0,SporTV 3
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0dy/index.m3u8
+#EXTINF:0,SporTV Alternativo
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0ef/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0a2/index.m3u8
+#EXTINF:0,ESPN2
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0am/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.86:1234
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.152:1234
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:0,ESPN3
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a092/index.m3u8
+#EXTINF:0,ESPN4
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a09k/index.m3u8
+#EXTINF:0,Band Sports
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0a3/index.m3u8
+#EXTINF:0,Bandeirantes
+#EXTVLCOPT:network-caching=1000
+http://45.175.61.242:4000/play/a0eg/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:0,DISCOVERY TURBO HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.82:1234
+#EXTINF:0,ZOOMOO HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.83:1234
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.84:1234
+#EXTINF:0,DISCOVERY H&H SD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.85:1234
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.86:1234
+#EXTINF:0,TC Pipoca HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:0,UNIVERSAL TV HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.88:1234
+#EXTINF:0,MEGAPIX HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.89:1234
+#EXTINF:0,Clubinho Fun 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.91:1234
+#EXTINF:0,DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.92:1234
+#EXTINF:0,ID - INVESTIGACAO
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.93:1234
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.94:1234
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:0,HBO+ HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.96:1234
+#EXTINF:0,HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.97:1234
+#EXTINF:0,HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.98:1234
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.99:1234
+#EXTINF:0,HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.100:1234
+#EXTINF:0,CINEMAX HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.101:1234
+#EXTINF:0,PREMIERE CLUBES HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+#EXTINF:0,PREMIERE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.103:1234
+#EXTINF:0,PREMIERE 3 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+#EXTINF:0,PREMIERE 4 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.105:1234
+#EXTINF:0,PREMIERE 5 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+#EXTINF:0,PREMIERE 6 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.107:1234
+#EXTINF:0,Rádio Itumbiara 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.108:1234
+#EXTINF:0,GB MG HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.118:1234
+#EXTINF:0,BAND SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.119:1234
+#EXTINF:0,SBT HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.120:1234
+#EXTINF:0,REDETV! HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.122:1234
+#EXTINF:0,PREMIERE CLUBES HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+#EXTINF:0,TCM HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.124:1234
+#EXTINF:0,CANAL RURAL
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.125:1234
+#EXTINF:0,WARNER HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.126:1234
+#EXTINF:0,CANAL SONY HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.127:1234
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.129:1234
+#EXTINF:0,HISTORY HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.130:1234
+#EXTINF:0,BBAND NEWS
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+#EXTINF:0,FOX SPORTS 2 HD 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.132:1234
+#EXTINF:0,HBO 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:0,TC PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+#EXTINF:0,TC ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.135:1234
+#EXTINF:0,TC TOUCH 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.136:1234
+#EXTINF:0,TC FUN HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.137:1234
+#EXTINF:0,POLISHOP TV
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.138:1234
+#EXTINF:0,POLISHOP TV
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.139:1234
+#EXTINF:0,PARAMOUNT HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.140:1234
+#EXTINF:0, Rádio Intubiara 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.141:1234
+#EXTINF:0,TERRA VIVA
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.142:1234
+#EXTINF:0,IDEAL TV/LOADING
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.143:1234
+#EXTINF:0, CCTV 4
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.144:1234
+#EXTINF:0, 65
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.145:1234
+#EXTINF:0,RPT
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.146:1234
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.139:1234
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.121:1234
+#EXTINF:0,WOOHOO HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.112:1234
+#EXTINF:0,RECORDTV MG HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.147:1234
+#EXTINF:0,NICK HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.149:1234
+#EXTINF:0,RECORDTV SP HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.151:1234
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.152:1234
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:0,HBO 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.154:1234
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.155:1234
+#EXTINF:0,HBO+ HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.156:1234
+#EXTINF:0,HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.157:1234
+#EXTINF:0,HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.158:1234
+#EXTINF:0,CINEMAX HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.159:1234
+#EXTINF:0,CNN BRASIL HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.160:1234
+#EXTINF:0,TERRA VIVA
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.161:1234
+#EXTINF:0,FUTURA HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.165:1234
+#EXTINF:0, Cine Brasil TV 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.171:1234
+#EXTINF:0, Record News 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.170:1234
+#EXTINF:0,COMBATE HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.172:1234
+#EXTINF:0, (Indefinido)
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.173:1234
+#EXTINF:0, Rai Italia 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.174:1234
+#EXTINF:0, Rádio Ibituruna 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.175:1234
+#EXTINF:0,CNN BRASIL HD
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.176:1234
+#EXTINF:0, HGTV
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.177:1234
+#EXTINF:0,Jovem Pan News 
+#EXTVLCOPT:network-caching=1000
+http://189.91.128.146:4444/udp/227.10.20.180:1234
+#EXTINF:0,A&E 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1305.m3u8
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1727.m3u8
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/67.m3u8
+#EXTINF:0,A&E HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1787.m3u8
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/62.m3u8
+#EXTINF:0,AMC 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2146.m3u8
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/58.m3u8
+#EXTINF:0,AMC HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1543.m3u8
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/133.m3u8
+#EXTINF:0,ANIMAL PLANET 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/98.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1771.m3u8
+#EXTINF:0,APARECIDA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1742.m3u8
+#EXTINF:0,ARTE 1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/142.m3u8
+#EXTINF:0,ARTE1 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2887.m3u8
+#EXTINF:0,ARTE1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1711.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/68.m3u8
+#EXTINF:0,AXN 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1306.m3u8
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/12.m3u8
+#EXTINF:0,AXN HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1788.m3u8
+#EXTINF:0,BABY TV
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/358.m3u8
+#EXTINF:0,BABY TV HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/483.m3u8
+#EXTINF:0,BAND
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1772.m3u8
+#EXTINF:0,BAND 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/105.m3u8
+#EXTINF:0,BAND HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1740.m3u8
+#EXTINF:0,BAND HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1789.m3u8
+#EXTINF:0,BAND NEWS 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2900.m3u8
+#EXTINF:0,BAND NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/156.m3u8
+#EXTINF:0,BAND NEWS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1790.m3u8
+#EXTINF:0,BAND SPORTS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/591.m3u8
+#EXTINF:0,BAND SPORTS 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1307.m3u8
+#EXTINF:0,BAND SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/277.m3u8
+#EXTINF:0,BAND SPORTS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1791.m3u8
+#EXTINF:0,BEST RELAX HOUSE CHILLOUT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5049.m3u8
+#EXTINF:0,BEST SHUFFLE DANCE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5052.m3u8
+#EXTINF:0,BEST SHUFFLE DANCE MIX
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5055.m3u8
+#EXTINF:0,BIS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/412.m3u8
+#EXTINF:0,BIS 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1308.m3u8
+#EXTINF:0,BIS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/416.m3u8
+#EXTINF:0,BIS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1792.m3u8
+#EXTINF:0,BLOOMBERG HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/484.m3u8
+#EXTINF:0,BOOMERANG 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2890.m3u8
+#EXTINF:0,BOOMERANG HD LT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/467.m3u8
+#EXTINF:0,BOOMERANG HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1793.m3u8
+#EXTINF:0,BOOMORANG HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/8.m3u8
+#EXTINF:0,BOOMORANG HD USA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/489.m3u8
+#EXTINF:0,CANAL BRASIL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/13.m3u8
+#EXTINF:0,CANAL BRASIL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2896.m3u8
+#EXTINF:0,CANAL BRASIL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1738.m3u8
+#EXTINF:0,CANAL BRASIL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1794.m3u8
+#EXTINF:0,CANAL RURAL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/189.m3u8
+#EXTINF:0,CANCAO NOVA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/144.m3u8
+#EXTINF:0,CARTOON NETWORK 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/97.m3u8
+#EXTINF:0,CARTOON NETWORK HD ES
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/530.m3u8
+#EXTINF:0,CARTOON NETWORK HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/479.m3u8
+#EXTINF:0,CARTOON NETWORK HD USA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/488.m3u8
+#EXTINF:0,Cascão A Turma da Monica 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5034.m3u8
+#EXTINF:0,Cavaleiros do Zodiaco 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5033.m3u8
+#EXTINF:0,Cavaleiros do Zodiaco 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5032.m3u8
+#EXTINF:0,Cavaleiros do Zodiaco 3 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5031.m3u8
+#EXTINF:0,Cavaleiros do Zodiaco 4 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5030.m3u8
+#EXTINF:0,Cavaleiros do Zodiaco 5 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5029.m3u8
+#EXTINF:0,Cavaleiros do Zodiaco 6 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5028.m3u8
+#EXTINF:0,Caverna do Dragão 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5027.m3u8
+#EXTINF:0,Caverna do Dragão 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5026.m3u8
+#EXTINF:0,Chaves 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5025.m3u8
+#EXTINF:0,Chaves Desenho 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5024.m3u8
+#EXTINF:0,CICASA 2 CLASSICO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1556.m3u8
+#EXTINF:0,TVCINE HOLLYWOOD HD LEG
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/420.m3u8
+#EXTINF:0,TVCINE MUNDO HD LEG
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/430.m3u8
+#EXTINF:0,CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1773.m3u8
+#EXTINF:0,CINEMAX 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1309.m3u8
+#EXTINF:0,CINEMAX HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/69.m3u8
+#EXTINF:0,CINEMAX HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1795.m3u8
+#EXTINF:0,Clarêncio O Otimista 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4950.m3u8
+#EXTINF:0,CN CARTOON HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/346.m3u8
+#EXTINF:0,CN CARTOON HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1796.m3u8
+#EXTINF:0,CNN BRASIL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1774.m3u8
+#EXTINF:0,CNN BRASIL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/169.m3u8
+#EXTINF:0,CNN BRASIL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1797.m3u8
+#EXTINF:0,CNN ESPANHOL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/180.m3u8
+#EXTINF:0,CNN INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/181.m3u8
+#EXTINF:0,CNT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/185.m3u8
+#EXTINF:0,COMBATE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1775.m3u8
+#EXTINF:0,COMBATE 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1310.m3u8
+#EXTINF:0,COMBATE HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/308.m3u8
+#EXTINF:0,COMEDY CENTER HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1799.m3u8
+#EXTINF:0,COMEDY CENTRAL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/66.m3u8
+#EXTINF:0,CONMEBOL TV 1
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/319.m3u8
+#EXTINF:0,CONMEBOL TV 1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1770.m3u8
+#EXTINF:0,CONMEBOL TV 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/320.m3u8
+#EXTINF:0,CONMEBOL TV 2 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5133.m3u8
+#EXTINF:0,CONMEBOL TV 3
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/321.m3u8
+#EXTINF:0,CONMEBOL TV 3 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5134.m3u8
+#EXTINF:0,CONMEBOL TV 4
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/322.m3u8
+#EXTINF:0,CONMEBOL TV 4 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5135.m3u8
+#EXTINF:0,COPA NORDESTE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4998.m3u8
+#EXTINF:0,COPA NORDESTE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4999.m3u8
+#EXTINF:0,Coragem o Cão Covarde 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4949.m3u8
+#EXTINF:0,Coragem o Cão Covarde 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4948.m3u8
+#EXTINF:0,Corrida Maluca 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4947.m3u8
+#EXTINF:0,Corrida Maluca 1968 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4946.m3u8
+#EXTINF:0,CURTA 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/146.m3u8
+#EXTINF:0,CURTA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1712.m3u8
+#EXTINF:0,CURTA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1800.m3u8
+#EXTINF:0,DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1776.m3u8
+#EXTINF:0,DISCOVERY 4 K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/101.m3u8
+#EXTINF:0,DISCOVERY H&H
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1777.m3u8
+#EXTINF:0,DISCOVERY H&H 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1311.m3u8
+#EXTINF:0,DISCOVERY H&H HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1730.m3u8
+#EXTINF:0,DISCOVERY H&H HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/117.m3u8
+#EXTINF:0,DISCOVERY HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1714.m3u8
+#EXTINF:0,DISCOVERY HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1801.m3u8
+#EXTINF:0,DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/347.m3u8
+#EXTINF:0,DISCOVERY KIDS 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1312.m3u8
+#EXTINF:0,DISCOVERY KIDS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1665.m3u8
+#EXTINF:0,DISCOVERY KIDS HD LT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/474.m3u8
+#EXTINF:0,DISCOVERY KIDS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1802.m3u8
+#EXTINF:0,DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1715.m3u8
+#EXTINF:0,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" group-title="HD+" - DISCOVERY SCIENCE HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/115.m3u8
+#EXTINF:0,DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1716.m3u8
+#EXTINF:0,DISCOVERY THEATER 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1313.m3u8
+#EXTINF:0,DISCOVERY THEATER HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1717.m3u8
+#EXTINF:0,DISCOVERY THEATER HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/118.m3u8
+#EXTINF:0,DISCOVERY TLC HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/134.m3u8
+#EXTINF:0,DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1731.m3u8
+#EXTINF:0,DISCOVERY TURBO 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1314.m3u8
+#EXTINF:0,DISCOVERY TURBO HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1732.m3u8
+#EXTINF:0,DISCOVERY TURBO HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/119.m3u8
+#EXTINF:0,DISCOVERY WORLD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1718.m3u8
+#EXTINF:0,DISCOVERY WORLD 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1315.m3u8
+#EXTINF:0,DISCOVERY WORLD HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1719.m3u8
+#EXTINF:0,DISCOVERY WORLD HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/120.m3u8
+#EXTINF:0,DISNEY
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/348.m3u8
+#EXTINF:0,DISNEY 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1316.m3u8
+#EXTINF:0,DISNEY CHANNEL HD LT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/470.m3u8
+#EXTINF:0,DISNEY CHANNEL HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/478.m3u8
+#EXTINF:0,DISNEY HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/353.m3u8
+#EXTINF:0,DISNEY HD OSN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/516.m3u8
+#EXTINF:0,DISNEY HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1803.m3u8
+#EXTINF:0,DISNEY JR HD ES
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/531.m3u8
+#EXTINF:0,DISNEY JR HD LT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/471.m3u8
+#EXTINF:0,DISNEY JUNIOR HD ES
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/525.m3u8
+#EXTINF:0,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" group-title="Infantil osn" - DISNEY JUNIOR HD OSN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/518.m3u8
+#EXTINF:0,DISNEY JUNIOR HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/477.m3u8
+#EXTINF:0,DISNEY XD HD ES
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/524.m3u8
+#EXTINF:0,DISNEY XD HD OSN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/515.m3u8
+#EXTINF:0,Dragon Ball 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4943.m3u8
+#EXTINF:0,Dragon Ball 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4942.m3u8
+#EXTINF:0,Dragon Ball Heroes 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4941.m3u8
+#EXTINF:0,Dragon Ball Super 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4940.m3u8
+#EXTINF:0,Dragon Ball Super 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4939.m3u8
+#EXTINF:0,Dragon Ball Super 3 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4938.m3u8
+#EXTINF:0,Dragon Ball Z 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4937.m3u8
+#EXTINF:0,Dragon Ball Z 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4936.m3u8
+#EXTINF:0,Dragon Ball [Filmes 1] 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4935.m3u8
+#EXTINF:0,DW
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/168.m3u8
+#EXTINF:0,E! 2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/138.m3u8
+#EXTINF:0,E! 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2893.m3u8
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/152.m3u8
+#EXTINF:0,E! HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1805.m3u8
+#EXTINF:0,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" group-title="HD+" - EL PLUS 1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/333.m3u8
+#EXTINF:0,ELEVEN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23229.m3u8
+#EXTINF:0,ELEVEN 10 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23238.m3u8
+#EXTINF:0,ELEVEN 11 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23239.m3u8
+#EXTINF:0,ELEVEN 12 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23240.m3u8
+#EXTINF:0,ELEVEN 13 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23241.m3u8
+#EXTINF:0,ELEVEN 14 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23242.m3u8
+#EXTINF:0,ELEVEN 15 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23243.m3u8
+#EXTINF:0,ELEVEN 16 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23244.m3u8
+#EXTINF:0,ELEVEN 17 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23245.m3u8
+#EXTINF:0,ELEVEN 18 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23246.m3u8
+#EXTINF:0,ELEVEN 19 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23247.m3u8
+#EXTINF:0,ELEVEN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23230.m3u8
+#EXTINF:0,ELEVEN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23231.m3u8
+#EXTINF:0,ELEVEN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23232.m3u8
+#EXTINF:0,ELEVEN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23233.m3u8
+#EXTINF:0,ELEVEN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23234.m3u8
+#EXTINF:0,ELEVEN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23235.m3u8
+#EXTINF:0,ELEVEN 8 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23236.m3u8
+#EXTINF:0,ELEVEN 9 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23237.m3u8
+#EXTINF:0,ELEVEN SPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23179.m3u8
+#EXTINF:0,ELEVEN SPORTS 1 VIP HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23164.m3u8
+#EXTINF:0,ELEVEN SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23180.m3u8
+#EXTINF:0,ELEVEN SPORTS 3 VIP HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23174.m3u8
+#EXTINF:0,ELEVEN SPORTS VIP 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23178.m3u8
+#EXTINF:0,ELEVEN SPORTS VIP 4 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23175.m3u8
+#EXTINF:0,ELEVEN SPORTS VIP 5 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23176.m3u8
+#EXTINF:0,ELEVEN SPORTS VIP 6
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23177.m3u8
+#EXTINF:0,EPTV CAMPINAS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/239.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/302.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/297.m3u8
+#EXTINF:0,ESPN 2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1318.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/295.m3u8
+#EXTINF:0,ESPN 2 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1807.m3u8
+#EXTINF:0,ESPN 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/113.m3u8
+#EXTINF:0,ESPN BRASIL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1758.m3u8
+#EXTINF:0,ESPN BRASIL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1317.m3u8
+#EXTINF:0,ESPN BRASIL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1749.m3u8
+#EXTINF:0,ESPN BRASIL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1808.m3u8
+#EXTINF:0,ESPN EXTRA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1759.m3u8
+#EXTINF:0,ESPN EXTRA 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2889.m3u8
+#EXTINF:0,ESPN EXTRA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/309.m3u8
+#EXTINF:0,ESPN EXTRA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1809.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1757.m3u8
+#EXTINF:0,ESPN HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1806.m3u8
+#EXTINF:0,ESPORTE ONLINE 1
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/318.m3u8
+#EXTINF:0,ESPORTE ONLINE 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/303.m3u8
+#EXTINF:0,ESPORTE ONLINE 3
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/304.m3u8
+#EXTINF:0,ESTADIO TNT PROGRAMAÇÂO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5017.m3u8
+#EXTINF:0,ESTADIO TNT SPORT 01 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5012.m3u8
+#EXTINF:0,ESTADIO TNT SPORT 02 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5013.m3u8
+#EXTINF:0,ESTADIO TNT SPORT 03 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5014.m3u8
+#EXTINF:0,ESTADIO TNT SPORT 04 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5015.m3u8
+#EXTINF:0,ESTADIO TNT SPORT 05 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5016.m3u8
+#EXTINF:0,ESTADIO TNT SPORTS MELHORES MOMENTOS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5018.m3u8
+#EXTINF:0,EURO SPORTS HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23248.m3u8
+#EXTINF:0,EUROSPORT 1
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/331.m3u8
+#EXTINF:0,EUROSPORT 2 4K PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m3u8
+#EXTINF:0,FILM&ARTS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/56.m3u8
+#EXTINF:0,FILM&ARTS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1810.m3u8
+#EXTINF:0,FISH TV
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/135.m3u8
+#EXTINF:0,FOOD NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/121.m3u8
+#EXTINF:0,FOOD NETWORK HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1811.m3u8
+#EXTINF:0,ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/282.m3u8
+#EXTINF:0,ESPN 4 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/95.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1750.m3u8
+#EXTINF:0,ESPN 4 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1816.m3u8
+#EXTINF:0,FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/281.m3u8
+#EXTINF:0,FOX SPORTS 2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/107.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/299.m3u8
+#EXTINF:0,FOX SPORTS 2 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1817.m3u8
+#EXTINF:0,FUTURA 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2899.m3u8
+#EXTINF:0,FUTURA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/200.m3u8
+#EXTINF:0,FUTURA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1818.m3u8
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1544.m3u8
+#EXTINF:0,FX 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1319.m3u8
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/19.m3u8
+#EXTINF:0,FX HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1819.m3u8
+#EXTINF:0,GLOBO BRASIL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/215.m3u8
+#EXTINF:0,GLOBO BRASILIA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/224.m3u8
+#EXTINF:0,GLOBO BRASILIA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1820.m3u8
+#EXTINF:0,GLOBO BRAZIL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1821.m3u8
+#EXTINF:0,GLOBO CURITIBA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/252.m3u8
+#EXTINF:0,GLOBO CURITIBA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1822.m3u8
+#EXTINF:0,GLOBO FLORIANOPOLIS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1823.m3u8
+#EXTINF:0,GLOBO RPC FOZ DO IGUACU
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/204.m3u8
+#EXTINF:0,GLOBO RPC FOZ DO IGUACU HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1824.m3u8
+#EXTINF:0,GLOBO MINAS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1743.m3u8
+#EXTINF:0,GLOBO MINAS 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1320.m3u8
+#EXTINF:0,GLOBO MINAS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/205.m3u8
+#EXTINF:0,GLOBO MINAS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1825.m3u8
+#EXTINF:0,GLOBO NEWS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/206.m3u8
+#EXTINF:0,GLOBO NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1323.m3u8
+#EXTINF:0,GLOBO NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1739.m3u8
+#EXTINF:0,GLOBO NEWS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1826.m3u8
+#EXTINF:0,GLOBO NORDESTE HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/272.m3u8
+#EXTINF:0,GLOBO RECIFE 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1321.m3u8
+#EXTINF:0,GLOBO RECIFE HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1827.m3u8
+#EXTINF:0,GLOBO RJ
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1744.m3u8
+#EXTINF:0,GLOBO RJ 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1322.m3u8
+#EXTINF:0,GLOBO RJ HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1745.m3u8
+#EXTINF:0,GLOBO RJ HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1828.m3u8
+#EXTINF:0,GLOBO SP
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/214.m3u8
+#EXTINF:0,GLOBO SP 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/102.m3u8
+#EXTINF:0,GLOBO SP HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1746.m3u8
+#EXTINF:0,GLOBO SP HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1829.m3u8
+#EXTINF:0,GLOOB 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2888.m3u8
+#EXTINF:0,GLOOB HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/349.m3u8
+#EXTINF:0,GLOOB HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1832.m3u8
+#EXTINF:0,GLOOBINHO HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/360.m3u8
+#EXTINF:0,GLOOBINHO HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1831.m3u8
+#EXTINF:0,GNT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/130.m3u8
+#EXTINF:0,GNT 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1325.m3u8
+#EXTINF:0,GNT HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/122.m3u8
+#EXTINF:0,GNT HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1833.m3u8
+#EXTINF:0,HALAB TV HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5116.m3u8
+#EXTINF:0,HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/21.m3u8
+#EXTINF:0,HBO FAMILY 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1327.m3u8
+#EXTINF:0,HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/48.m3u8
+#EXTINF:0,HBO FAMILY HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1834.m3u8
+#EXTINF:0,HBO MAX 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/17350.m3u8
+#EXTINF:0,HBO MAX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/17351.m3u8
+#EXTINF:0,HBO MAX 3 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/17352.m3u8
+#EXTINF:0,HBO MAX 4 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/17353.m3u8
+#EXTINF:0,HBO MUNDI
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1548.m3u8
+#EXTINF:0,HBO MUNDI 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1330.m3u8
+#EXTINF:0,HBO MUNDI HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/25.m3u8
+#EXTINF:0,HBO MUNDI HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1843.m3u8
+#EXTINF:0,HBO PLUS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23.m3u8
+#EXTINF:0,HBO PLUS 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1328.m3u8
+#EXTINF:0,HBO PLUS E HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/43.m3u8
+#EXTINF:0,HBO PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/45.m3u8
+#EXTINF:0,HBO PLUS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1835.m3u8
+#EXTINF:0,HBO POP
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/46.m3u8
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1550.m3u8
+#EXTINF:0,HBO POP HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1845.m3u8
+#EXTINF:0,HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/24.m3u8
+#EXTINF:0,HBO SIGNATURE 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1329.m3u8
+#EXTINF:0,HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/61.m3u8
+#EXTINF:0,HBO SIGNATURE HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1836.m3u8
+#EXTINF:0,HBO XTREME
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1549.m3u8
+#EXTINF:0,HBO XTREME 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1331.m3u8
+#EXTINF:0,HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/26.m3u8
+#EXTINF:0,HBO XTREME HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1844.m3u8
+#EXTINF:0,HBO1
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/20.m3u8
+#EXTINF:0,HBO1 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2898.m3u8
+#EXTINF:0,HBO1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/22.m3u8
+#EXTINF:0,HBO1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1837.m3u8
+#EXTINF:0,HBO2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/47.m3u8
+#EXTINF:0,HBO2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1326.m3u8
+#EXTINF:0,HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/6.m3u8
+#EXTINF:0,HBO2 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1838.m3u8
+#EXTINF:0,HGTV HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/248.m3u8
+#EXTINF:0,HISTORY 1
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/131.m3u8
+#EXTINF:0,HISTORY 1 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1332.m3u8
+#EXTINF:0,HISTORY 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/124.m3u8
+#EXTINF:0,HISTORY 1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/137.m3u8
+#EXTINF:0,HISTORY 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/123.m3u8
+#EXTINF:0,HISTORY 2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1333.m3u8
+#EXTINF:0,HISTORY 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1720.m3u8
+#EXTINF:0,HISTORY 2 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1839.m3u8
+#EXTINF:0,Homem Aranha Animado 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4930.m3u8
+#EXTINF:0,Homem Aranha Animado 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4929.m3u8
+#EXTINF:0,Homem de Ferro 01 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4928.m3u8
+#EXTINF:0,Homem de Ferro 02 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4927.m3u8
+#EXTINF:0,Homem de Ferro 1994 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4926.m3u8
+#EXTINF:0,I-SAT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/49.m3u8
+#EXTINF:0,ID 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2902.m3u8
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/125.m3u8
+#EXTINF:0,ID HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1840.m3u8
+#EXTINF:0,Irmão do Jorel 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4925.m3u8
+#EXTINF:0,Irmão do Jorel 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4924.m3u8
+#EXTINF:0,Jacarelvis 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4921.m3u8
+#EXTINF:0,Johnny Bravo 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4920.m3u8
+#EXTINF:0,KIDS HD OSN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/519.m3u8
+#EXTINF:0,KIDS ZONE HD OSN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/523.m3u8
+#EXTINF:0,LANA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5107.m3u8
+#EXTINF:0,LANA PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5108.m3u8
+#EXTINF:0,LIFE TIME HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/126.m3u8
+#EXTINF:0,LIFE TIME HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1841.m3u8
+#EXTINF:0,LIKE TV HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1842.m3u8
+#EXTINF:0,LIVE CACHAÇA CABARÉ 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5047.m3u8
+#EXTINF:0,LOADING.... HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4923.m3u8
+#EXTINF:0,LOUNGE CHILL OUT HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5048.m3u8
+#EXTINF:0,Luluzinha 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4919.m3u8
+#EXTINF:0,Luluzinha 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4918.m3u8
+#EXTINF:0,MAIS NA TELA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1733.m3u8
+#EXTINF:0,MAIS NA TELA 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1324.m3u8
+#EXTINF:0,MAIS NA TELA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/139.m3u8
+#EXTINF:0,MAIS NA TELA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1830.m3u8
+#EXTINF:0,MEGA HITS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5056.m3u8
+#EXTINF:0,MEGAPIX
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1779.m3u8
+#EXTINF:0,MEGAPIX 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/109.m3u8
+#EXTINF:0,MEGAPIX HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/27.m3u8
+#EXTINF:0,MEGAPIX HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1846.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/413.m3u8
+#EXTINF:0,MTV 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1334.m3u8
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1734.m3u8
+#EXTINF:0,MTV HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1847.m3u8
+#EXTINF:0,MULTISHOW
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1735.m3u8
+#EXTINF:0,MULTISHOW 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1335.m3u8
+#EXTINF:0,MULTISHOW HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/140.m3u8
+#EXTINF:0,MULTISHOW HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1848.m3u8
+#EXTINF:0,MUSIC BOX BRAZIL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2891.m3u8
+#EXTINF:0,MUSIC BOX BRAZIL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/415.m3u8
+#EXTINF:0,MUSIC BOX BRAZIL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1849.m3u8
+#EXTINF:0,MUSICA ELECTRONICA 2021
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5051.m3u8
+#EXTINF:0,NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1722.m3u8
+#EXTINF:0,NAT GEO 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/100.m3u8
+#EXTINF:0,NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1721.m3u8
+#EXTINF:0,NAT GEO HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1850.m3u8
+#EXTINF:0,NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1724.m3u8
+#EXTINF:0,NAT GEO WILD 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1336.m3u8
+#EXTINF:0,NAT GEO WILD HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1723.m3u8
+#EXTINF:0,NHK HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/213.m3u8
+#EXTINF:0,NHK HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/161.m3u8
+#EXTINF:0,NICK JR HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/350.m3u8
+#EXTINF:0,NICK JR HD LT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/475.m3u8
+#EXTINF:0,NICK JR HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1853.m3u8
+#EXTINF:0,NICK JUNIOR 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5009.m3u8
+#EXTINF:0,NICK JUNIOR HD OSN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/520.m3u8
+#EXTINF:0,NICK JUNIOR HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/487.m3u8
+#EXTINF:0,NICK JUNIOR HD USA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/493.m3u8
+#EXTINF:0,NICK TOON HD OSN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/522.m3u8
+#EXTINF:0,NICKELODEON HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/355.m3u8
+#EXTINF:0,NICKELODEON HD LT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/469.m3u8
+#EXTINF:0,NICKELODEON HD OSN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/521.m3u8
+#EXTINF:0,NICKELODEON HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/486.m3u8
+#EXTINF:0,NICKELODEON HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1854.m3u8
+#EXTINF:0,NOVO TEMPO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/198.m3u8
+#EXTINF:0,OFF
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1736.m3u8
+#EXTINF:0,OFF 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1337.m3u8
+#EXTINF:0,OFF HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/132.m3u8
+#EXTINF:0,OFF HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1855.m3u8
+#EXTINF:0,PARAMOUNT HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/28.m3u8
+#EXTINF:0,PARAMOUNT HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1856.m3u8
+#EXTINF:0,PFC +
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/294.m3u8
+#EXTINF:0,Pokemon 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/361.m3u8
+#EXTINF:0,Pokemon 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5602.m3u8
+#EXTINF:0,PREMIERE 1
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1780.m3u8
+#EXTINF:0,PREMIERE 1 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/111.m3u8
+#EXTINF:0,PREMIERE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1760.m3u8
+#EXTINF:0,PREMIERE 1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/313.m3u8
+#EXTINF:0,PREMIERE 1 PFC
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/312.m3u8
+#EXTINF:0,PREMIERE 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1761.m3u8
+#EXTINF:0,PREMIERE 2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1338.m3u8
+#EXTINF:0,PREMIERE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/311.m3u8
+#EXTINF:0,PREMIERE 2 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/283.m3u8
+#EXTINF:0,PREMIERE 2 PFC
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1781.m3u8
+#EXTINF:0,PREMIERE 3
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1762.m3u8
+#EXTINF:0,PREMIERE 3 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1339.m3u8
+#EXTINF:0,PREMIERE 3 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/314.m3u8
+#EXTINF:0,PREMIERE 3 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/284.m3u8
+#EXTINF:0,PREMIERE 4
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1763.m3u8
+#EXTINF:0,PREMIERE 4 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1340.m3u8
+#EXTINF:0,PREMIERE 4 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/310.m3u8
+#EXTINF:0,PREMIERE 4 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/285.m3u8
+#EXTINF:0,PREMIERE 5 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/315.m3u8
+#EXTINF:0,PREMIERE 5 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1755.m3u8
+#EXTINF:0,PREMIERE 5 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/286.m3u8
+#EXTINF:0,PREMIERE 6
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/316.m3u8
+#EXTINF:0,PREMIERE 6 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/292.m3u8
+#EXTINF:0,PREMIERE 7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/317.m3u8
+#EXTINF:0,PREMIERE 7 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/291.m3u8
+#EXTINF:0,PREMIERE 8
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/296.m3u8
+#EXTINF:0,PREMIERE 9
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/298.m3u8
+#EXTINF:0,PREMIERE CLUBES HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/287.m3u8
+#EXTINF:0,PRIME
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/9122.m3u8
+#EXTINF:0,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" group-title="4K" - PRIME 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/9120.m3u8
+#EXTINF:0,PRIME BOX BRASIL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2892.m3u8
+#EXTINF:0,PRIME BOX BRASIL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/44.m3u8
+#EXTINF:0,PRIME BOX BRASIL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1857.m3u8
+#EXTINF:0,PRIME LIGUE ESPORTES 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23040.m3u8
+#EXTINF:0,PRIME LIGUE ESPORTES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23041.m3u8
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAwFBMVEUjHyDtHCT///8WEBKHhoYAAAAAHyAOBgjExMScm5vwHCT0HCQKAAAdGRqqqan1HCS+vb709PS4uLjq6und3N1GQ0MdHyAXHyAfHyAQHyDoHCQMHyAUDhBxb3Cgn5+1HSPMHSNyHiHeHCSPjo4vLC2sHSM2HyBJHyFjHiHS0dGaHSKNHiInHyC+HSNqHiFAHyBSHyE4NTZ3dXZeXFyFHiLVHCSQHiJ8HiFGHyFtHiFcHiFWVFRJRkd/fX1cWlsrJygdQ5auAAAKnElEQVR4nO2dCXeiPBSGEQVaIuJS2aRKsVq12tpF7Tbf/P9/9bEvKiFhsWQO7zmdWpGQh5vce3ODZ6jWP64+1fy3xbSof1zNmpB41YTkqyYkXzUh+aoJyVdNSL5qQvJVE5KvmpB81YTkqyYkXzUh+aoJyVdNSL5qQvJVE5KvmpB81YSBdOZIbV3wj7WPjzGc3oxcI3j3XEtC4jWEhMZtUZRgy/q3KEJ9ehVXt9P6ZnS3D/2jY1f9ceuN8vvebPlvd7gzLf0ICddYvthH2t3jxp2r/70fDocvw+bLSxoiKiHTpU81aDkUzODMMZq++m67N6Djv3PDnGnpmguucdTO0Gm8d7Zx6tq+Ak3RS6Yowv7ZCy3toZpASNMtBoEw7KJwdDqM8L75SjNXvWmvbEL6hoMQ0n+4dELaH2Z6C4dQv7UI+71u6YT0uA0hpO+FdMJbzymdHIATWjZcTunWTemENJSw004n7LjTldKPm4ESCsNW+/bnz8trE9btQginOoSwx6QTelYQhscnwwmFphUqmkIaYAbC3rjT6d+E11oyIeHy2lKnG+mU5czTCGnXhvoUTtiL6R6t25kIb5i2FYT/C/oxiNiww3Ac12aE8Ab8aaYTuhORuYIT3h5F/DIJnb+DO977GyF0zdH8Dno55ZIJl97vvtMi14u/e0KYOh6LJYzMmpcTQopBIux45w3ss4Q3793rihBSVDDZoIQtHULoj0s78+J8stD+v2zDn6Aj9yeE3G1w8BviaTr+SP9j5beMPzrDuwOZhxcgZIJuD4Sop9F1nWOGoTOFRYvOi/eiy4RmXyYRXvVDdfVyCW2Frv0mGi1a0+l0HPoK+gpK6PfeippNfxqOkwhjKtWX9qzlTISBHnOQiP8Ny9o6QYD4FoIPff8+4bGGQjJhx+4JhNDPtacc44XQnlA5Qiu3TyRcwldPHcYPOVfMfXBK5QgtT59E2HH7kUzYDs5kXr0XljUrRviatD7sdX68bsAI/VaH/ouXqo3SNzsAniUcvPq9gBA2A9N5TVhe9fejRQTimnFz5oCw+z0Nb/mSSyUU/Ok38E7rJhNeLuLbq6dOZzy9HbY9hGjEb1OhQfup85BiIsswW1Z2k0h4waytbYnTm0EZL5a16WHGRt/qaYThsQCqCoQnx2J5acQsPSGNsBm5H5YGkfStuoTRTl9Da23O/YgR9okgjLrWATyniVvco0j2NFxEqcX8MgmjdU97XQQl5MIFL+0WH5MI+9cRjd+QEUsgDOoR3oehhMHSPjyeQBjXmDvuxUUJI3aBroAdi0cI3EGORHj9q4SUEPbKWiDCCaMltv8EUgijUW4owAm5SJnUrR6QQBjdRbLSHChhpOCzJIgwmsX+ZaCEke2KKferhEG/BqeEQSf6vg0jexDjY8Kr+KfDv7+FOOFPfFrGVLwvbb6OvUjUOlm56FP/2K0fpbjW2I9c0/Zt7NSwJTdLEd78j7onc8GZL07j1+dUQjykmn42cWZppp9mGsFb1ueF+KlBS14aFhz2707877ClcnMaclUTkq+akHzVhOSrJiRfFydUZFllLY1UWZJH1m/rhVLmBS9IqEg22nzxvpoYxm63M01zZ2xmq/3d3Hq/NM4LESqWuaivx40piiIAfETAkgiMyePTmlWlEi59CUJFZtdPM0Oz0RrnZZNqxuOHPJKLvnrphBaeethoIkiCi2ACYM6e2FGxliyZUGLXBwOFLoAUtdUzW+ScLJVQHj3MNHQ8T4A3nuRRYZ0oj1BR2TsDAEw815KiuWfVguxYFqGiSntNxDVfyAi0d7UYp1MSoSq/a5nMFwqYh0IYSyGU2YMp5uOz7SjuPtn8Q7UEQom9M7OPzzjjZq7m7U7xhKP5Btt9Jgpoh7xmLJpQYh8bhfHZEjfrfGYsmJB92OWfgHGBRj4zFkqojFaJmWcOiRM5RyJXJKGsGDkjRILAbp09bhRIyC60EgzoiG98ZU7jCiNU2FVxLvQUkX9nf5lQkoyiXUxc4iyjvymIUH42y5mCEUQj25qqGEJ1W9oUDAWyIRZCyD6VESTOIGYZqEUQsu/lTsEIYgYrFkDI7i8EmA0xPyH7WLaPiSFiD9TchBcboj4ibnUjL+HocFFAC3GCGfpzErJ3BQzRoPYNvHI4HHGFh5iPUH3KZUGLSxQb9u7FZDZbWZrN7C0NU3NL/wlniY9YiLkIpefscEBsaMZsv3ieU/aGzWg0Uq2fkb1HI62fvw6rianx52vJYIGzJs5DqEhmpkBvW86YHT5GzhabcuI5FEVyNt6o7d3KsCmPrsJrc4z1Yh5CNsty0MIzZ5+W0dJXtYrD+fE+MY9syZsYMSMHITvDBwRgt3/A22CSZFb+eNzEdgdwHGp2Qvw4wYvabJtlk9DeW1U+J3xYoxQPyCvizITSA+Yc5IHxmWPnTJFZ9mkSbBTwH6gtZSVURjssQtCYbNm8RXqZpRYTd7jyO9RxmpWQXeFMQgBmc7aIjU/LkvKnIQKMwJ+RUN5iTELAz9YFbEB4siDnK2u0igu0IZGNUKHQIyEPJs/F8bmXHykHA5gSUqvZCNkJ8hgVza9CxmdcliG3kxlSapOJUP5CBeQbj7n9S4Ikdo30uUyELKofBZt1cRvyGZWFUEWM9XYZt9QHupCUgVBZa2gGNOa/bkAqEyFiPgr2JXiYDMInREvX+MYi60ZDwcInZDcIhGA3L8mFYgubUHpGcDPiLM+eZrHCJmQn6SYUVxXwob5wCaXndEBwqMgUdIRLmJ6v8fyiCkEiECahMk8zIN/Y5n7Ip1BhEo7SYiGvfVTFiXrCJGRT0hm+UTVATEI5pcbNNx6qBohJmBLtqzdEKUzCND/Db6sHiEeowjdDwVO1vKgrLEIWWp2pVqAPhEMobWGA4r6SgFiE6h4ySMGsmoBYhKyRbENgVBQQh1BRk4Mhb64rs1w6EgahDNmzB9WL9L4wCCErQ4C+2XVxoRNC9rQr62VsoRNKH0nTkN8V9R2lMoROmDwNeZwHBy4udMLEpWGVJyGFQ5gUDcGmwpOQwiFUzy9+ebPcL5vnFjJhUqlb/KpsJHSFTCjfnXWl2I8KXlzIhOrZRxN4xK3mXxQy4ehsRgOeKj5GMQjPlmiqP0ZxCM/tbGujqo9RHMIzwQIcqliYORI64akr5Su76o0KlVCZnxKCbZXzUV+ohNLXCWGl10yhUAnlxakNKx8KHWUnBO8EuBkKg/DzKKXhd5VeM4VCJjxe/4p3lc9mXGUlJCNS2EImPMQJK79oCoRM+A7INGFWG4IHEoK9o2zRgidgTeELOad5EMk0IXpeuhbJNCHGGj9CKCJ/YaUCQl89hZ6Gr3iFNC50wnBfhoxVk68MVQyyTJilEkVOOuMIv15KUDrjCKPmDQhbVHhC37fwH6bRyDIhOqGiuOVEsCdjaR8IY//QDRfamojqTCgMQmfjgpACW0QYO6SOM+WfSYr2tjCexbArpoRFe1sYz9PYX1kjLVRQeM9EWVkNaaGCwiJU9wCsCCmSRoRBKH2I5PkZzOdLNcJSUkdYhBvy/Azmc96LOWH5jC2sZ/XJ2E47Uv2/sJCvmpB81YTkqyYkXzUh+aoJyVdNSL5qQvJVE5KvmpB81YTkqyYkXzUh+Wq2/gd04PX+2Qn2hwAAAABJRU5ErkJggg==" group-title="HD+" - PRIME HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/9121.m3u8
+#EXTINF:0,RADIO ANOS 2000
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/397.m3u8
+#EXTINF:0,RADIO ANOS 60
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/404.m3u8
+#EXTINF:0,RADIO ANOS 70
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/407.m3u8
+#EXTINF:0,RADIO ANOS 80
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/378.m3u8
+#EXTINF:0,RADIO ANOS 90
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/402.m3u8
+#EXTINF:0,RADIO ATTANTIDA FM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/390.m3u8
+#EXTINF:0,RADIO BAND NEWS FM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/396.m3u8
+#EXTINF:0,RADIO BH FM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/380.m3u8
+#EXTINF:0,RADIO BLACK HIP HOP
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/366.m3u8
+#EXTINF:0,RADIO BLUES
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/379.m3u8
+#EXTINF:0,RADIO CANCAO NOVA AM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/395.m3u8
+#EXTINF:0,RADIO CBN BRASILIA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/389.m3u8
+#EXTINF:0,RADIO CBN MG
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/408.m3u8
+#EXTINF:0,RADIO CBN RJ
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/370.m3u8
+#EXTINF:0,RADIO CBN SP
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/386.m3u8
+#EXTINF:0,RADIO CLASSICA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/403.m3u8
+#EXTINF:0,RADIO CLUBE DE PARA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/409.m3u8
+#EXTINF:0,RADIO CULTURA FM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/410.m3u8
+#EXTINF:0,RADIO DISCO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/384.m3u8
+#EXTINF:0,RADIO DISNEY
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/392.m3u8
+#EXTINF:0,RADIO FESTA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/364.m3u8
+#EXTINF:0,RADIO FORRA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/406.m3u8
+#EXTINF:0,RADIO FUNK E RAP
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/381.m3u8
+#EXTINF:0,RADIO GAUCHA AM/FM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/393.m3u8
+#EXTINF:0,RADIO GLOBO RJ
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/372.m3u8
+#EXTINF:0,RADIO GLOBO SP
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/371.m3u8
+#EXTINF:0,RADIO GOSPEL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/385.m3u8
+#EXTINF:0,RADIO ITATIAIA AM/FM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/391.m3u8
+#EXTINF:0,RADIO JAZZ
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/376.m3u8
+#EXTINF:0,RADIO KIDS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/387.m3u8
+#EXTINF:0,RADIO LOUNGE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/411.m3u8
+#EXTINF:0,RADIO METAL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/367.m3u8
+#EXTINF:0,RADIO MPB
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/383.m3u8
+#EXTINF:0,RADIO MUSICA ELETRONICA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/369.m3u8
+#EXTINF:0,RADIO NATIVA FM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/394.m3u8
+#EXTINF:0,RADIO POP HITS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/399.m3u8
+#EXTINF:0,RADIO REGGAE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/368.m3u8
+#EXTINF:0,RADIO ROCK
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/374.m3u8
+#EXTINF:0,RADIO ROCK BRASIL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/388.m3u8
+#EXTINF:0,RADIO ROCK CLASSICO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/401.m3u8
+#EXTINF:0,RADIO ROMANTICAS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/365.m3u8
+#EXTINF:0,RADIO SAMBA E PAGODE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/398.m3u8
+#EXTINF:0,RADIO SERTANEJO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/400.m3u8
+#EXTINF:0,RADIO SERTANEJO UNIVERSITARIO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/377.m3u8
+#EXTINF:0,RADIO SOFT HITS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/375.m3u8
+#EXTINF:0,RADIO TELETEMA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/382.m3u8
+#EXTINF:0,RADIO TRILHAS SONORAS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/373.m3u8
+#EXTINF:0,RADIO U2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/405.m3u8
+#EXTINF:0,RAI ITALIA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1741.m3u8
+#EXTINF:0,RAI NEWS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/155.m3u8
+#EXTINF:0,RBI
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/251.m3u8
+#EXTINF:0,RBS TV PORTO ALEGRE HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/223.m3u8
+#EXTINF:0,RBS TV HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/247.m3u8
+#EXTINF:0,RECORD DF HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/12410.m3u8
+#EXTINF:0,RECORD HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/188.m3u8
+#EXTINF:0,RECORD NEWS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/164.m3u8
+#EXTINF:0,RECORD PARANA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/12415.m3u8
+#EXTINF:0,RECORD RJ
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/227.m3u8
+#EXTINF:0,RECORD SP HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/202.m3u8
+#EXTINF:0,REDE BRASIL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/191.m3u8
+#EXTINF:0,REDE BRASIL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/236.m3u8
+#EXTINF:0,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" group-title="VARIEDADES" - REDE SUPER
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1737.m3u8
+#EXTINF:0,REDE TV
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/192.m3u8
+#EXTINF:0,REDE VIDA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/151.m3u8
+#EXTINF:0,REDE VIDA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1859.m3u8
+#EXTINF:0,RIT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/220.m3u8
+#EXTINF:0,Samurai Warriors 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5603.m3u8
+#EXTINF:0,Samurai-X 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5604.m3u8
+#EXTINF:0,Samurai-X 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5605.m3u8
+#EXTINF:0,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" group-title="SIRYA" - SATELITE SIRYA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5124.m3u8
+#EXTINF:0,SBT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1782.m3u8
+#EXTINF:0,SBT 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1341.m3u8
+#EXTINF:0,SBT HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/266.m3u8
+#EXTINF:0,SBT HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/270.m3u8
+#EXTINF:0,SHOPTIME
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/147.m3u8
+#EXTINF:0,SHUFLLE ELECTRO DANCE 2021
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5053.m3u8
+#EXTINF:0,SIC
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/148.m3u8
+#EXTINF:0,SKY 1 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23021.m3u8
+#EXTINF:0,SKY 10 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23030.m3u8
+#EXTINF:0,SKY 11 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23031.m3u8
+#EXTINF:0,SKY 12 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23032.m3u8
+#EXTINF:0,SKY 13 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23033.m3u8
+#EXTINF:0,SKY 14 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23034.m3u8
+#EXTINF:0,SKY 15 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23035.m3u8
+#EXTINF:0,SKY 2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23022.m3u8
+#EXTINF:0,SKY 3 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23023.m3u8
+#EXTINF:0,SKY 4 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23024.m3u8
+#EXTINF:0,SKY 5 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23025.m3u8
+#EXTINF:0,SKY 6 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23026.m3u8
+#EXTINF:0,SKY 7 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23027.m3u8
+#EXTINF:0,SKY 8 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23028.m3u8
+#EXTINF:0,SKY 9 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23029.m3u8
+#EXTINF:0,SMITHSONIAN 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2148.m3u8
+#EXTINF:0,SMITHSONIAN HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1725.m3u8
+#EXTINF:0,SONY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1552.m3u8
+#EXTINF:0,SONY CHANNEL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1342.m3u8
+#EXTINF:0,SONY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/29.m3u8
+#EXTINF:0,SONY CHANNEL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1860.m3u8
+#EXTINF:0,SPACE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/64.m3u8
+#EXTINF:0,SPACE 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/106.m3u8
+#EXTINF:0,SPACE HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1765.m3u8
+#EXTINF:0,SPACE HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1861.m3u8
+#EXTINF:0,SPORT TV 1 HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
+#EXTINF:0,SPORT TV 2 HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m3u8
+#EXTINF:0,SPORT TV 3 HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
+#EXTINF:0,SPORT TV 4 HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1783.m3u8
+#EXTINF:0,SPORTING TV HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/328.m3u8
+#EXTINF:0,SPORTV 1
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1766.m3u8
+#EXTINF:0,SPORTV 1 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1534.m3u8
+#EXTINF:0,SPORTV 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/293.m3u8
+#EXTINF:0,SPORTV 1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1862.m3u8
+#EXTINF:0,SPORTV 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1767.m3u8
+#EXTINF:0,SPORTV 2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1535.m3u8
+#EXTINF:0,SPORTV 2 HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/307.m3u8
+#EXTINF:0,SPORTV 2 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1863.m3u8
+#EXTINF:0,SPORTV 3
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1768.m3u8
+#EXTINF:0,SPORTV 3 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1536.m3u8
+#EXTINF:0,SPORTV 3 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/305.m3u8
+#EXTINF:0,SPORTV 3 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1864.m3u8
+#EXTINF:0,STAR + 5 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23042.m3u8
+#EXTINF:0,STAR + 6 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23043.m3u8
+#EXTINF:0,STAR + 7 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23044.m3u8
+#EXTINF:0,STAR + 8 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23045.m3u8
+#EXTINF:0,STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1547.m3u8
+#EXTINF:0,STAR CHANNEL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/11.m3u8
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/15.m3u8
+#EXTINF:0,STAR CHANNEL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1812.m3u8
+#EXTINF:0,STAR HITS 1
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/17.m3u8
+#EXTINF:0,STAR HITS 1 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/112.m3u8
+#EXTINF:0,STAR HITS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1545.m3u8
+#EXTINF:0,STAR HITS 1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1814.m3u8
+#EXTINF:0,STAR HITS 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/18.m3u8
+#EXTINF:0,STAR HITS 2 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/114.m3u8
+#EXTINF:0,STAR HITS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1546.m3u8
+#EXTINF:0,STAR HITS 2 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1815.m3u8
+#EXTINF:0,STAR LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/16.m3u8
+#EXTINF:0,STAR LIFE HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1813.m3u8
+#EXTINF:0,STAR+ 1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23036.m3u8
+#EXTINF:0,STAR+ 2 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23037.m3u8
+#EXTINF:0,STAR+ 3 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23038.m3u8
+#EXTINF:0,STAR+ 4 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23039.m3u8
+#EXTINF:0,STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1553.m3u8
+#EXTINF:0,STUDIO UNIVERSAL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1537.m3u8
+#EXTINF:0,STUDIO UNIVERSAL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/31.m3u8
+#EXTINF:0,STUDIO UNIVERSAL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1865.m3u8
+#EXTINF:0,SUMMER MUSIC
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5054.m3u8
+#EXTINF:0,SYFY 4k
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1866.m3u8
+#EXTINF:0,SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/57.m3u8
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxATEhASEhIVFhUVFRAVGBUVEBUYFxgVFxcWFxUVFhcYHSggGBomGxUWITEhJSkrLi4uGCEzODMtNygtLisBCgoKDg0OGxAQGyslICUuLS0tLS4tLS0tLS0tLS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABwECBAUGAwj/xABKEAACAQIDBAYECQoFAgcAAAABAgADEQQSIQUGMUEHEyJRYXEygZGxFCMzQnJzocHRJDRDUlNigpKTshVU0uHwFsJEY4OUoqOz/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAMEAQIFBgf/xAA8EQABAwIDAwoEBQIHAQAAAAABAAIDBBEFITESQVETImFxgZGhscHRBhRC8BUyUpLhNMIjM1NygqLxFv/aAAwDAQACEQMRAD8AnGIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESIiESJQmYeAxy1QStxZipDDUEcjME2RZsS3NMHau1aOHTPVfKOQ5se5RzMEgZlACcgthEjravSMUVmSmFUc3JJPdoDx9c5Sv0tY83KLh14WDUajH1kOADIW1LHaK42hmcNB3hThEhPA9LmNB+No0HHcoembed290kTdTfXC43soSlW1zSe2a3MqeDjy1HMCSNka42CikppYxcjJdRERN1AkREIkREIkREIkREIkREIkREIkREIkREIkREIkREIok3l6Q2oY3GYfEZkWgUFLqi4LhlD9uxsTZl46aGc4/SnTLMxoVDe1yai3NhYXF+63OdbvjSwybRZ62Ho1VZaWfrKSsQLWzAnmLeu1vEa/eFcIKnV0cLRpmm1i60qYzXANrBeAPO/Kc2aFkk+y4PzzycQBbLIDp1U7JCGZW7s1rsF0nLVrYemq1FBq0lLVKosilhmIAJ5X4+7SZW2cVXxfXYwkdUjimqltVU2yALzve5PffumuxbnI4GgytwFuR7pjbDwz1SqXIpvURWt+squy/wDxLe2JoWxANFyDnmSejertFz7vNgRYabt/aVhbbpO9LMoJVGBY20F7gX9ZmhSnJx3Z2Oq4XqqiAls3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" group-title="LIBANON" - TAHA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5082.m3u8
+#EXTINF:0,TBS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/32.m3u8
+#EXTINF:0,TBS HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/60.m3u8
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/50.m3u8
+#EXTINF:0,TELECINE ACTION
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1784.m3u8
+#EXTINF:0,TELECINE ACTION 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/96.m3u8
+#EXTINF:0,TELECINE ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5.m3u8
+#EXTINF:0,TELECINE ACTION HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1867.m3u8
+#EXTINF:0,TELECINE CULT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/34.m3u8
+#EXTINF:0,TELECINE CULT 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2901.m3u8
+#EXTINF:0,TELECINE CULT HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/51.m3u8
+#EXTINF:0,TELECINE CULT HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1868.m3u8
+#EXTINF:0,TELECINE FUN
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/35.m3u8
+#EXTINF:0,TELECINE FUN 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1538.m3u8
+#EXTINF:0,TELECINE FUN HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/55.m3u8
+#EXTINF:0,TELECINE FUN HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1869.m3u8
+#EXTINF:0,TELECINE PIPOCA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1785.m3u8
+#EXTINF:0,TELECINE PIPOCA 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/94.m3u8
+#EXTINF:0,TELECINE PIPOCA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/54.m3u8
+#EXTINF:0,TELECINE PIPOCA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1870.m3u8
+#EXTINF:0,TELECINE PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/37.m3u8
+#EXTINF:0,TELECINE PREMIUM 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1539.m3u8
+#EXTINF:0,TELECINE PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/53.m3u8
+#EXTINF:0,TELECINE PREMIUM HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1871.m3u8
+#EXTINF:0,TELECINE TOUCH
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/38.m3u8
+#EXTINF:0,TELECINE TOUCH 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1540.m3u8
+#EXTINF:0,TELECINE TOUCH HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/63.m3u8
+#EXTINF:0,TELECINE TOUCH HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1872.m3u8
+#EXTINF:0,TERRA VIVA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/221.m3u8
+#EXTINF:0,THE GOOD LIFE HAPPY MUSIC
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5057.m3u8
+#EXTINF:0,THE GOOD LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5050.m3u8
+#EXTINF:0,Timão e Pumba 01 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5606.m3u8
+#EXTINF:0,Timão e Pumba 02 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5607.m3u8
+#EXTINF:0,TLC 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2897.m3u8
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/129.m3u8
+#EXTINF:0,TLC HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1873.m3u8
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/52.m3u8
+#EXTINF:0,TNT 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/104.m3u8
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1769.m3u8
+#EXTINF:0,TNT HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1874.m3u8
+#EXTINF:0,TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/40.m3u8
+#EXTINF:0,TNT SERIES 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/108.m3u8
+#EXTINF:0,TNT SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/59.m3u8
+#EXTINF:0,TNT SERIES HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1875.m3u8
+#EXTINF:0,TNT SPORTS 1 ES HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5010.m3u8
+#EXTINF:0,TNT SPORTS 2 ES
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/17354.m3u8
+#EXTINF:0,TNT SPORTS ORIGINAIS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5011.m3u8
+#EXTINF:0,Tom & Jerry 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5617.m3u8
+#EXTINF:0,TOONCAST
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/354.m3u8
+#EXTINF:0,TOONCAST 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/4917.m3u8
+#EXTINF:0,TRU TV HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/149.m3u8
+#EXTINF:0,TRU TV HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1876.m3u8
+#EXTINF:0,TV AMAZONAS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/219.m3u8
+#EXTINF:0,TV ANHANGUERA GOLANIA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/210.m3u8
+#EXTINF:0,TV APARECIDA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/193.m3u8
+#EXTINF:0,TV BAHIA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/246.m3u8
+#EXTINF:0,TV BAHIA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/263.m3u8
+#EXTINF:0,TV BRASIL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/194.m3u8
+#EXTINF:0,TV BRASIL 2
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/237.m3u8
+#EXTINF:0,TV BRASIL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2147.m3u8
+#EXTINF:0,TV CAMARA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/207.m3u8
+#EXTINF:0,TV CULTURA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1748.m3u8
+#EXTINF:0,TV CULTURA EDUCACAO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1726.m3u8
+#EXTINF:0,TV DIARIO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/231.m3u8
+#EXTINF:0,TV DIARIO FORTALEZA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/275.m3u8
+#EXTINF:0,TV EM BAURU HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/196.m3u8
+#EXTINF:0,TV EM SOROCABA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/234.m3u8
+#EXTINF:0,TV ESCOLA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/197.m3u8
+#EXTINF:0,TV JUSTICIA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/203.m3u8
+#EXTINF:0,TV LIBERAL BELEM HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/222.m3u8
+#EXTINF:0,TV LIBERAL BELEM HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1877.m3u8
+#EXTINF:0,TV PAI ETERNO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/274.m3u8
+#EXTINF:0,TV PAI ETERNO 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2904.m3u8
+#EXTINF:0,TV RA TIM BUM 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2894.m3u8
+#EXTINF:0,TV RA TIM BUM HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/356.m3u8
+#EXTINF:0,TV SENADO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/208.m3u8
+#EXTINF:0,TV TEM BAURU HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/238.m3u8
+#EXTINF:0,TV TEM SOROCABA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/211.m3u8
+#EXTINF:0,TV TRIBUNA SANTOS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/250.m3u8
+#EXTINF:0,TV VANGUARDA S.J.
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/249.m3u8
+#EXTINF:0,TV VERDES MARES FORTALEZA
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/232.m3u8
+#EXTINF:0,TV5 MONDE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/162.m3u8
+#EXTINF:0,TVCINE ACTION HD LEG
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/429.m3u8
+#EXTINF:0,TVCINE EDITION HD LEG
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/427.m3u8
+#EXTINF:0,TVCINE EMOTON HD LEG
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/428.m3u8
+#EXTINF:0,TVCINE TOP HD LEG
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/426.m3u8
+#EXTINF:0,TVE
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/165.m3u8
+#EXTINF:0,UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1554.m3u8
+#EXTINF:0,UNIVERSAL 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1541.m3u8
+#EXTINF:0,UNIVERSAL HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/41.m3u8
+#EXTINF:0,UNIVERSAL HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1878.m3u8
+#EXTINF:0,Ursinhos Carinhosos 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5608.m3u8
+#EXTINF:0,Ursinhos Carinhosos 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5609.m3u8
+#EXTINF:0,VH 1 MEGA HITS
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/418.m3u8
+#EXTINF:0,VH1 HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/414.m3u8
+#EXTINF:0,VH1 HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1879.m3u8
+#EXTINF:0,VIVA 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/2895.m3u8
+#EXTINF:0,VIVA HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/141.m3u8
+#EXTINF:0,VIVA HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/145.m3u8
+#EXTINF:0,WARNER
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1555.m3u8
+#EXTINF:0,WARNER 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1542.m3u8
+#EXTINF:0,WARNER HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/42.m3u8
+#EXTINF:0,WARNER HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1880.m3u8
+#EXTINF:0,WOOHOO
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/150.m3u8
+#EXTINF:0,X-Men 1 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5610.m3u8
+#EXTINF:0,X-Men 2 24/7
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/5611.m3u8
+#EXTINF:0,ZOOMOO HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/357.m3u8
+#EXTINF:0,ZOOMOO HD+
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1881.m3u8
+#EXTINF:0,ROTANA CINEMA EGY HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23370.m3u8
+#EXTINF:0,ROTANA AFLAM HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23371.m3u8
+#EXTINF:0,ROTANA KIDS HD
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23373.m3u8
+#EXTINF:0,EUROSPORTS 1 4K PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23374.m3u8
+#EXTINF:0,EUROSPORTS 2 HD PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23375.m3u8
+#EXTINF:0,SPORT TV 1 4K PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23376.m3u8
+#EXTINF:0,SPORT TV 2 4K PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23377.m3u8
+#EXTINF:0,SPORT TV 3 4K PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23378.m3u8
+#EXTINF:0,SPORT TV 4 4K PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23379.m3u8
+#EXTINF:0,SPORTING TV 4K PT
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23380.m3u8
+#EXTINF:0,JOVEM PAN NEWS 4K
+#EXTVLCOPT:network-caching=1000
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23728.m3u8
+#EXTINF:0,24 Kitchen HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01n
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02g
+#EXTINF:0,AMC Break
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02q
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02f
+#EXTINF:0,ARTV
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00g
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00q
+#EXTINF:0,AXN Movies HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01m
+#EXTINF:0,AXN White HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01q
+#EXTINF:0,BTV 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00t
+#EXTINF:0,Baby TV
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00c
+#EXTINF:0,Biggs
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02v
+#EXTINF:0,Bloomberg
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01b
+#EXTINF:0,CMTV
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a008
+#EXTINF:0,CNBC
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01c
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02x
+#EXTINF:0,CNN Portugal
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a007
+#EXTINF:0,Canal 11 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02i
+#EXTINF:0,Canal Histðria
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00d
+#EXTINF:0,Canal Panda
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01g
+#EXTINF:0,Canal Q
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a013
+#EXTINF:0,Can#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a019
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a012
+#EXTINF:0,Casa e Cozinha HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a020
+#EXTINF:0,Ca#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a029
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a024
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02b
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02c
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a033
+#EXTINF:0,E! Entertainment
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a016
+#EXTINF:0,Eleven Sports 1
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01w
+#EXTINF:0,Eleven Sports 2
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00s
+#EXTINF:0,Eleven Sports 3
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00w
+#EXTINF:0,Eleven Sports 4
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01x
+#EXTINF:0,Eleven Sports 5
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01y
+#EXTINF:0,Eleven Sports 6
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00v
+#EXTINF:0,Euronews
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02z
+#EXTINF:0,Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01l
+#EXTINF:0,Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01r
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a011
+#EXTINF:0,FOX Comedy
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00u
+#EXTINF:0,FOX Crime HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01o
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00r
+#EXTINF:0,FOX Life HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01s
+#EXTINF:0,FOX Movies
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02p
+#EXTINF:0,FTV
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a017
+#EXTINF:0,Fuel TV
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a028
+#EXTINF:0,Globo
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a009
+#EXTINF:0,Globo Now
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02d
+#EXTINF:0,Hollywood
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00z
+#EXTINF:0,Hot
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a032
+#EXTINF:0,ID Investigation Discovery
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01t
+#EXTINF:0,Kuriakos TV HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a036
+#EXTINF:0,MCM Pop
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a018
+#EXTINF:0,MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02s
+#EXTINF:0,MTV Portugal
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00f
+#EXTINF:0,Mezzo
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02t
+#EXTINF:0,Motorvision
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02h
+#EXTINF:0,NOS Studios HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02k
+#EXTINF:0,National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00p
+#EXTINF:0,National Geographic WILD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01v
+#EXTINF:0,Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02a
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a027
+#EXTINF:0,Odisseia
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a010
+#EXTINF:0,PFC
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01a
+#EXTINF:0,Playboy TV
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01e
+#EXTINF:0,Porto Canal
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00a
+#EXTINF:0,RTP .frica
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00h
+#EXTINF:0,RTP 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a002
+#EXTINF:0,RTP 2 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a003
+#EXTINF:0,RTP 3
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a006
+#EXTINF:0,RTP A#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00i
+#EXTINF:0,RTP Madeira
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00j
+#EXTINF:0,RTP Memðria
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00e
+#EXTINF:0,SIC Caras
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a015
+#EXTINF:0,SIC HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a004
+#EXTINF:0,SIC K
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00b
+#EXTINF:0,SIC Mulher
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02n
+#EXTINF:0,SIC Not#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01f
+#EXTINF:0,SIC Radical
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a014
+#EXTINF:0,SPORT TV+
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02r
+#EXTINF:0,SYFY
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a035
+#EXTINF:0,Sky News
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02y
+#EXTINF:0,Sport TV 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a040
+#EXTINF:0,Sport TV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00n
+#EXTINF:0,Sport TV 3 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00o
+#EXTINF:0,Sport TV 4 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00y
+#EXTINF:0,Sport TV 5 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01i
+#EXTINF:0,Sport TV 6 HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01j
+#EXTINF:0,Sport TV NBA
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01u
+#EXTINF:0,Sporting TV
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a034
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02o
+#EXTINF:0,TV Record
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a00k
+#EXTINF:0,TV5 Monde
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a037
+#EXTINF:0,TVCine ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a025
+#EXTINF:0,TVCine EDITION HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a021
+#EXTINF:0,TVCine EMOTION HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01z
+#EXTINF:0,TVCine TOP HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02e
+#EXTINF:0,TVE 24h
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02w
+#EXTINF:0,TVE Internacional
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02u
+#EXTINF:0,TVI Fic#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01h
+#EXTINF:0,TVI HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a005
+#EXTINF:0,TVI Reality
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02m
+#EXTINF:0,Toros TV
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a031
+#EXTINF:0,Trace Toca
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a026
+#EXTINF:0,Travel Channel HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a01p
+#EXTINF:0,ZAP Viva HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.13:4000/play/a02j
